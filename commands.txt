@@ -1,0 +1,11 @@
+git init
+git status
+git add
+git rm --cached
+git commit -m
+git log
+git restore
+git log --oneline
+git log --oneline --pretty
+git config --global user.name "sonalipadhi997"
+git config --global user.email "sonalipadhi997@gmail.com"
